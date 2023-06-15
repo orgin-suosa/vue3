@@ -1,0 +1,44 @@
+.liveSubscribe {
+    width: 750px;
+    height: 1624px;
+    overflow: hidden;
+    background: url("../assets/bg.png") no-repeat center;
+    background-size: contain;
+    position: relative;
+  }
+  
+  .button_share {
+    width: 186px;
+    height: 68px;
+    background: url("../assets/ico-share.png") no-repeat center;
+    background-size: contain;
+    position: absolute;
+    right: 30px;
+    top: 80px;
+  }
+  
+  .button_order {
+    width: 428px;
+    height: 88px;
+    background: url("../assets/btn-order.png") no-repeat center;
+    background-size: contain;
+    margin: 0 auto;
+  
+  }
+  
+  .order_conten {
+    font-size: 30px;
+    width: 100%;
+    position: absolute;
+    left: 50%;
+    bottom: 150px;
+    transform: translateX(-50%);
+  }
+  
+  .order_text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #ffffff;
+  
+  }

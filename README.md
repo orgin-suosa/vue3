@@ -1,15 +1,29 @@
-# vue2.0的学习
+# vue-project
 
-##demo1 
->是一个简单的router的demo
+This template should help get you started developing with Vue 3 in Vite.
 
-##calender 
->用vue实现的一个日期组件 可以参考写法，自己写组件
+## Recommended IDE Setup
 
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
-##pet 
->是我自己写的一个webapp的项目，叫宠物领养，现在还是开发中，vuex那块已经更新了，写法会更规范点  
->欢迎大家都交流吐槽  
->下一步的实现应该是先做好后端，在数据这块好像有点模糊了
+## Customize configuration
 
+See [Vite Configuration Reference](https://vitejs.dev/config/).
 
+## Project Setup
+
+```sh
+npm install
+```
+
+### Compile and Hot-Reload for Development
+
+```sh
+npm run dev
+```
+
+### Compile and Minify for Production
+
+```sh
+npm run build
+```

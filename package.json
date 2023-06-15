@@ -1,0 +1,27 @@
+{
+  "name": "vue-project",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@web3auth/modal": "^5.2.0",
+    "amfe-flexible": "^2.2.1",
+    "pinia": "^2.1.3",
+    "vant": "^4.3.2",
+    "vue": "^3.2.47"
+  },
+  "devDependencies": {
+    "@types/node": "^20.1.5",
+    "@vitejs/plugin-vue": "^4.2.1",
+    "autoprefixer": "^10.4.14",
+    "css-loader": "^6.7.3",
+    "postcss-px-to-viewport": "^1.1.1",
+    "style-loader": "^3.3.2",
+    "thread-loader": "^4.0.1",
+    "vite": "^4.3.4"
+  }
+}
